@@ -56,7 +56,7 @@ there's a new version)
 7. Make a pull request, and message Patrick no. 0303 on Discord so I can
 approve it.
 
-How to package a relase zip
+How to package a release zip
 ---
 1. Compile the game as a zip (not executable or installer).
 2. Unzip that zip into a temp folder.
